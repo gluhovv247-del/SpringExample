@@ -1,0 +1,6 @@
+task.name=main-task
+task.id=60
+
+list.values = 123, 234, 567
+
+map.values ={key1: 100, key2: 200}
